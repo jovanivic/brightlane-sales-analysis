@@ -1,0 +1,6 @@
+product_id,product_name,category,list_price_usd
+P01,Analytics Pro,Analytics,588.0
+P02,Analytics Basic,Analytics,228.0
+P03,CloudSync,Infrastructure,348.0
+P04,SecureVault,Security,468.0
+P05,DevOps Suite,Infrastructure,948.0

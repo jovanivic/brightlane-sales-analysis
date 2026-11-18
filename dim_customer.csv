@@ -1,0 +1,31 @@
+customer_id,customer_name,region,country,city,industry
+C001,Umbra Retail,Asia Pacific,Japan,Tokyo,Media
+C002,Juniper Labs,North America,Canada,Toronto,Healthcare
+C003,Vertex Systems,North America,United States,Austin,Retail
+C004,Juniper Logistics,Europe,France,Paris,Finance
+C005,Ironwood Media,North America,United States,Austin,Media
+C006,Umbra Media,North America,United States,Seattle,Logistics
+C007,Keystone Systems,North America,United States,Austin,Logistics
+C008,Vertex Retail,Europe,France,Paris,Media
+C009,Keystone Energy,Asia Pacific,Japan,Tokyo,Energy
+C010,Willow Media,North America,United States,Austin,Media
+C011,Quantum Health,North America,United States,Austin,Media
+C012,Northgate Systems,Europe,France,Paris,Healthcare
+C013,Ironwood Labs,Asia Pacific,Australia,Sydney,Healthcare
+C014,Keystone Health,Asia Pacific,Japan,Tokyo,Retail
+C015,Umbra Energy,North America,United States,Austin,Logistics
+C016,Apex Health,North America,Canada,Toronto,Logistics
+C017,Willow Labs,North America,Canada,Toronto,Energy
+C018,Ironwood Logistics,North America,Canada,Toronto,Finance
+C019,Juniper Energy,North America,United States,Seattle,Finance
+C020,Cedar Energy,North America,United States,Seattle,Healthcare
+C021,Keystone Retail,North America,Canada,Toronto,Healthcare
+C022,Redwood Labs,North America,United States,Seattle,Logistics
+C023,Northgate Capital,North America,Canada,Toronto,Retail
+C024,Cedar Media,North America,United States,Austin,Energy
+C025,Vertex Energy,Europe,France,Paris,Energy
+C026,Harbor Health,North America,United States,Seattle,Logistics
+C027,Apex Retail,Asia Pacific,Japan,Tokyo,Finance
+C028,Bluebird Logistics,Asia Pacific,Australia,Sydney,Healthcare
+C029,Willow Energy,North America,United States,Seattle,Media
+C030,Tidewater Capital,Europe,Germany,Munich,Healthcare
