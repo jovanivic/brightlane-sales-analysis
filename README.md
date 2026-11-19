@@ -10,11 +10,9 @@ Question:
 4. How much revenue is unpaid (Pending or Overdue)?
 Data
 
+Overview:
 The project has two parts that use two separate datasets in the same SQLite database.
-
-Part 1, cleaning (raw file): 
-a synthetic sales file, stg_sales_raw: 1,252 rows, all stored as text, with deliberately messy data (four date formats, inconsistent spellings, placeholders such as 9999 and "TBD", duplicate rows, a repeated header row and a TOTAL row). It has about 1,200 distinct orders.
-
+Part 1, cleaning (raw file): a synthetic sales file, stg_sales_raw: 1,252 rows, all stored as text, with deliberately messy data (four date formats, inconsistent spellings, placeholders such as 9999 and "TBD", duplicate rows, a repeated header row and a TOTAL row). It has about 1,200 distinct orders.
 Part 2, modeling and dashboard (clean set): 
 a separate, already-clean sales dataset loaded into the same database: 30 customers, 5 products, 4 sales reps, 100 orders, 195 order lines. The star schema, queries and dashboard use this set.
 Source: synthetic data created for this project. The cleaned tables are the four CSV files in this repo (dim_customer.csv, dim_product.csv, dim_rep.csv, fact_sales.csv). The raw table is in brightlane_workspace_1.db.
